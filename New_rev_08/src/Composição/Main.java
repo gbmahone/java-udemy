@@ -54,10 +54,10 @@ public class Main {
         String monthAndYear = sc.next();
         int month = Integer.parseInt(monthAndYear.substring(0,2));
         int year = Integer.parseInt(monthAndYear.substring(3));
-        // estamos convertendo a string em int, o do mês iniciando no 0 até 2, e o ano iniciando do 3 em diante
+        // "Integer" = estamos convertendo a string em int, o do mês iniciando no 0 até 2, e o ano iniciando do 3 em diante
         System.out.println("Name: " + worker.getName());
         System.out.println("Department: " + worker.getDepartment().getName());
-        //associando o worler ao departamento e só depois chamando o nome
+        //associando o worker ao departamento e só depois chamando o nome
         System.out.println("Income for " + monthAndYear + ": " +  String.format("%.2f", worker.income(year,month)));
 
     }
