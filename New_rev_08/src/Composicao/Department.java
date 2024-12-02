@@ -1,4 +1,4 @@
-package Composição;
+package Composicao;
 
 public class Department {
     private String name;

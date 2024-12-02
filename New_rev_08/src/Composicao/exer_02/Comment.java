@@ -1,4 +1,4 @@
-package Composição.exer_02;
+package Composicao.exer_02;
 
 public class Comment {
 

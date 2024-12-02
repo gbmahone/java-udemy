@@ -1,4 +1,4 @@
-package Composição;
+package Composicao;
 
 public enum WorkerLevel {
     JUNIOR,
