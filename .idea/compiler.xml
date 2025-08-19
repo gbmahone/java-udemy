@@ -11,6 +11,7 @@
         <module name="abstract" />
         <module name="polimorfismo" />
         <module name="exerpolimorfismo" />
+        <module name="genericsIntro" />
       </profile>
     </annotationProcessing>
   </component>

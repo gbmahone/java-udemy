@@ -9,7 +9,14 @@
         <option value="$PROJECT_DIR$/exerpolimorfismo/pom.xml" />
         <option value="$PROJECT_DIR$/java/abstract/pom.xml" />
         <option value="$PROJECT_DIR$/java/herancapolimorfismo/pom.xml" />
+        <option value="$PROJECT_DIR$/../estudos.java/genericsIntro/pom.xml" />
+        <option value="$PROJECT_DIR$/java/genericsIntro/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../estudos.java/genericsIntro/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="20" project-jdk-type="JavaSDK">
