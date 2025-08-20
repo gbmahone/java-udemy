@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="heritage" />
         <module name="herancapolimorfismo" />
-        <module name="abstract" />
         <module name="polimorfismo" />
         <module name="exerpolimorfismo" />
+        <module name="coringaDelimited" />
+        <module name="heritage" />
+        <module name="abstract" />
+        <module name="delimitedGenerics" />
         <module name="genericsIntro" />
       </profile>
     </annotationProcessing>
