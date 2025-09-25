@@ -9,12 +9,12 @@
         <module name="herancapolimorfismo" />
         <module name="polimorfismo" />
         <module name="exerpolimorfismo" />
+        <module name="exerciMap" />
         <module name="coringaDelimited" />
         <module name="setExercises" />
         <module name="heritage" />
         <module name="abstract" />
         <module name="delimitedGenerics" />
-        <module name="map" />
         <module name="genericsIntro" />
       </profile>
     </annotationProcessing>
