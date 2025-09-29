@@ -17,11 +17,16 @@
         <option value="$PROJECT_DIR$/java/generics/delimitedGenerics/pom.xml" />
         <option value="$PROJECT_DIR$/java/generics/set/pom.xml" />
         <option value="$PROJECT_DIR$/java/generics/map/pom.xml" />
+        <option value="$PROJECT_DIR$/java/expressoesLambda/comparator/pom.xml" />
+        <option value="$PROJECT_DIR$/java/lambda/expecomparator/pom.xml" />
+        <option value="$PROJECT_DIR$/java/lambda/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/../estudos.java/genericsIntro/pom.xml" />
+        <option value="$PROJECT_DIR$/java/expressoesLambda/comparator/pom.xml" />
+        <option value="$PROJECT_DIR$/java/lambda/expecomparator/pom.xml" />
       </set>
     </option>
   </component>
