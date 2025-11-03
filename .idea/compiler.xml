@@ -9,6 +9,7 @@
         <module name="herancapolimorfismo" />
         <module name="lambda" />
         <module name="polimorfismo" />
+        <module name="funcoes" />
         <module name="exerpolimorfismo" />
         <module name="exerciMap" />
         <module name="coringaDelimited" />
