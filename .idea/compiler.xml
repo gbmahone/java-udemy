@@ -7,17 +7,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="herancapolimorfismo" />
-        <module name="lambda" />
         <module name="polimorfismo" />
         <module name="funcoes" />
         <module name="exerpolimorfismo" />
-        <module name="exerciMap" />
         <module name="coringaDelimited" />
         <module name="setExercises" />
         <module name="heritage" />
         <module name="abstract" />
-        <module name="delimitedGenerics" />
         <module name="genericsIntro" />
+        <module name="lambda" />
+        <module name="stream" />
+        <module name="exerciMap" />
+        <module name="delimitedGenerics" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

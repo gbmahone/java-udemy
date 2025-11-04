@@ -21,6 +21,7 @@
         <option value="$PROJECT_DIR$/java/lambda/expecomparator/pom.xml" />
         <option value="$PROJECT_DIR$/java/lambda/pom.xml" />
         <option value="$PROJECT_DIR$/java/funcoes/pom.xml" />
+        <option value="$PROJECT_DIR$/java/stream/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
