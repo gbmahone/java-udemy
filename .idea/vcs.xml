@@ -5,6 +5,8 @@
     <mapping directory="$PROJECT_DIR$/New_rev_08" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/New_rev_08/src/Spotify" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/New_rev_08/src/tratamentoDeExcecoes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/course" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java/site-de-vendas" vcs="Git" />
   </component>
 </project>

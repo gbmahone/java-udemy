@@ -22,6 +22,8 @@
         <option value="$PROJECT_DIR$/java/lambda/pom.xml" />
         <option value="$PROJECT_DIR$/java/funcoes/pom.xml" />
         <option value="$PROJECT_DIR$/java/stream/pom.xml" />
+        <option value="$PROJECT_DIR$/aulaJPA/pom.xml" />
+        <option value="$PROJECT_DIR$/course/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
